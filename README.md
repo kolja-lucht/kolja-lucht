@@ -5,8 +5,7 @@
 
 - 👋 Hi, I’m @kolja-lucht
 - 👀 I’m interested in all things cloud related :cloud:
-- 🌱 I’m currently learning how to set up an EKS cluster from scratch
-- ⛵ I started working on a private side project with [Frigate](https://docs.frigate.video/)
+- 🌱 I’m currently learning how to set up GitLab runners on Kubernetes
 - 🎃 I love Hacktoberfest-Season
 
 
